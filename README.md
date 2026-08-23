@@ -1,118 +1,100 @@
 <a name="spawn"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:3498DB&height=200&section=header&text=YAGNADEEPSINH's%20DEV%20WORLD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Level%20∞&descAlignY=58&descSize=18" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:9D4EDD,100:00F5FF&height=220&section=header&text=YAGNADEEPSINH's%20DEV%20WORLD&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Level%20∞&descAlignY=58&descSize=19" alt="header banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=%3E+whoami;Full-Stack+Developer+%2B+3D%2FUI+Craftsman;%3E+ls+quests;BlueCarbon+%C2%B7+Chaotic+Chess+%C2%B7+FleetFlow+%2B+more;Press+a+button+to+teleport..." alt="Typing SVG"/>
-
-<img src="https://komarev.com/ghpvc/?username=YAGNADEEPSINH-4741&label=ADVENTURERS%20WHO%20VISITED&color=2ea44f&style=for-the-badge" alt="visitor badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-CURRENTLY_QUESTING-success?style=for-the-badge&logo=github" alt="status"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+whoami;Full-Stack+Developer+%2B+3D%2FUI+Craftsman;%3E+ls+%2Fquests;BlueCarbon+%C2%B7+Chaotic+Chess+%C2%B7+FleetFlow+%2B+7+more;%3E+status;Currently+questing..." alt="Typing SVG"/>
 
 <br/>
 
-> 🎮 **Real talk:** a GitHub README can't execute JavaScript — no real cursor tricks, no live inventory system. What's below is built entirely from things that *do* run natively on GitHub: anchor-link teleports, native `<details>` accordions (click-to-open doors), and auto-refreshing SVGs pulled live from your GitHub data. Nothing here is a static screenshot pretending to be interactive.
+<img src="https://img.shields.io/github/followers/YAGNADEEPSINH-4741?label=FOLLOWERS&style=for-the-badge&color=FF006E&logo=github&logoColor=white" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=YAGNADEEPSINH-4741&label=VISITS&color=9D4EDD&style=for-the-badge" alt="visitor badge"/>
+<img src="https://img.shields.io/badge/STATUS-CURRENTLY_QUESTING-00F5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="status"/>
+
+</div>
+
+> 🧙 **Class:** Full-Stack Mage &nbsp;·&nbsp; **Guild:** Devyx &nbsp;·&nbsp; **Rank:** BCA Final-Year &nbsp;·&nbsp; **Current Quest:** Hardening BlueCarbon Chain's smart contracts
 
 <div align="center">
 
 ### 🗺️ World Map — Choose Your Path
 
-[![Tech Forest](https://img.shields.io/badge/🌲_TECH_FOREST-Skill_Trees-2ea44f?style=for-the-badge)](#tech-forest)
-[![Project Fortress](https://img.shields.io/badge/🏰_PROJECT_FORTRESS-Boss_Battles-e74c3c?style=for-the-badge)](#project-fortress)
-[![Quest Log](https://img.shields.io/badge/📜_QUEST_LOG-Timeline-f1c40f?style=for-the-badge)](#quest-log)
-[![Achievements](https://img.shields.io/badge/🏆_ACHIEVEMENTS-Stats_%26_XP-9b59b6?style=for-the-badge)](#achievements)
-[![Guild Hall](https://img.shields.io/badge/🛡️_GUILD_HALL-Contact-3498db?style=for-the-badge)](#guild-hall)
+[![Tech Forest](https://img.shields.io/badge/🌲_TECH_FOREST-Skill_Trees-06FFA5?style=for-the-badge)](#tech-forest)
+[![Project Fortress](https://img.shields.io/badge/🏰_PROJECT_FORTRESS-Boss_Battles-FF006E?style=for-the-badge)](#project-fortress)
+[![Quest Log](https://img.shields.io/badge/📜_QUEST_LOG-Timeline-FFBE0B?style=for-the-badge)](#quest-log)
+[![Achievements](https://img.shields.io/badge/🏆_ACHIEVEMENTS-Stats_%26_XP-9D4EDD?style=for-the-badge)](#achievements)
+[![Guild Hall](https://img.shields.io/badge/🛡️_GUILD_HALL-Contact-00F5FF?style=for-the-badge)](#guild-hall)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
 <a name="tech-forest"></a>
 ## 🌲 Tech Forest — Skill Trees
 
 <div align="center">
-<img src="https://img.shields.io/badge/XP_BAR-████████████████░░░░_80%25-2ECC71?style=for-the-badge" alt="xp bar"/>
+<img src="https://img.shields.io/badge/XP_BAR-████████████████░░░░_80%25-06FFA5?style=for-the-badge" alt="xp bar"/>
 </div>
 
-Each grove below is a `<details>` element — click a category to open it. That's real click-to-expand behavior, not a picture of one.
+Click a grove to break it open — real `<details>` accordions, not screenshots.
 
 <details>
-<summary>⚔️ <b>Core Languages</b> — click to open the grove</summary>
-<br>
+<summary>⚔️ <b>Core Languages</b></summary>
+<br><div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=js,ts,python,solidity,php&theme=dark)
 
-</details>
+</div></details>
 
 <details>
-<summary>🏗️ <b>Frameworks & Frontend</b> — click to open the grove</summary>
-<br>
+<summary>🏗️ <b>Frameworks & Frontend</b></summary>
+<br><div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,flutter&theme=dark)
 
-</details>
+</div></details>
 
 <details>
-<summary>✨ <b>3D, Motion & Game Logic</b> — click to open the grove</summary>
-<br>
+<summary>✨ <b>3D, Motion & Game Logic</b></summary>
+<br><div align="center">
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=for-the-badge)
+![Skills](https://skillicons.dev/icons?i=threejs&theme=dark)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/R3F-000000?style=for-the-badge)
 ![Chess.js](https://img.shields.io/badge/Chess.js-333333?style=for-the-badge&logo=chess.com&logoColor=white)
 ![Stockfish](https://img.shields.io/badge/Stockfish-2C3E50?style=for-the-badge)
 
-</details>
+</div></details>
 
 <details>
-<summary>🧠 <b>AI / ML</b> — click to open the grove</summary>
-<br>
+<summary>🧠 <b>AI / ML</b></summary>
+<br><div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![MLKit](https://img.shields.io/badge/MLKit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-</details>
-
-<details>
-<summary>🧰 <b>Backend, Data & Cloud</b> — click to open the grove</summary>
-<br>
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
+</div></details>
 
 <details>
-<summary>⛓️ <b>Blockchain</b> — click to open the grove</summary>
-<br>
+<summary>🧰 <b>Backend, Data & Cloud</b></summary>
+<br><div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres,aws,docker,vercel,git&theme=dark)
+
+</div></details>
+
+<details>
+<summary>⛓️ <b>Blockchain</b></summary>
+<br><div align="center">
+
+![Skills](https://skillicons.dev/icons?i=solidity&theme=dark)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-4E4376?style=for-the-badge)
 
-</details>
+</div></details>
 
 <div align="right">
 
@@ -120,7 +102,7 @@ Each grove below is a `<details>` element — click a category to open it. That'
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
 <a name="project-fortress"></a>
 ## 🏰 Project Fortress — Boss Battles
@@ -129,18 +111,17 @@ Each grove below is a `<details>` element — click a category to open it. That'
 
 ### 👑 Featured Boss — BlueCarbon Chain
 
-<table><tr><td>
+<div align="center">
 
 **Blockchain-Based Blue Carbon Registry & MRV System**
+
 A blockchain-powered platform that measures, reports and verifies blue carbon stored in coastal ecosystems — mangroves and seagrass — with satellite MRV layers, multisig verification, and a Flutter field-inspection companion app.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=nextjs,solidity,supabase&theme=dark)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 
-</td></tr></table>
+</div>
 
 ### 🗡️ Boss Roster — click to challenge
 
@@ -264,7 +245,7 @@ Personal brand/agency site pushed toward premium 3D-cinematic quality with scrol
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
 <a name="quest-log"></a>
 ## 📜 Quest Log — Timeline
@@ -305,12 +286,10 @@ Mar 2026 ─┘  (Jan 1, 2026 → Mar 1, 2026)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
 <a name="achievements"></a>
 ## 🏆 Achievements — Stats & XP
-
-> Live numbers only — nothing below is hand-typed. Every widget refreshes itself from your GitHub data.
 
 <div align="center">
 
@@ -318,14 +297,30 @@ Mar 2026 ─┘  (Jan 1, 2026 → Mar 1, 2026)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YAGNADEEPSINH-4741&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YAGNADEEPSINH-4741&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YAGNADEEPSINH-4741&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF006E&icon_color=00F5FF&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YAGNADEEPSINH-4741&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=00F5FF&fire=FFBE0B&currStreakLabel=00F5FF" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAGNADEEPSINH-4741&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAGNADEEPSINH-4741&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=c9d1d9" alt="Top Languages" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YAGNADEEPSINH-4741&theme=react-dark&hide_border=true" alt="Contribution Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YAGNADEEPSINH-4741&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF006E&point=FFBE0B" alt="Contribution Graph" width="90%"/>
+
+<br/><br/>
+
+<!--
+🎁 BONUS BOSS #1 — a snake that eats your contribution graph every night.
+Uncomment the line below AFTER you've added .github/workflows/snake.yml and run it once from the Actions tab.
+
+![snake](https://raw.githubusercontent.com/YAGNADEEPSINH-4741/YAGNADEEPSINH-4741/output/github-contribution-grid-snake-dark.svg)
+-->
+
+<!--
+🎁 BONUS BOSS #2 — a rotating 3D voxel skyline built from your contribution history.
+Uncomment the line below AFTER you've added .github/workflows/profile-3d-contrib.yml and run it once from the Actions tab.
+
+![3d-contrib](https://raw.githubusercontent.com/YAGNADEEPSINH-4741/YAGNADEEPSINH-4741/profile-3d-contrib/profile-night-rainbow.svg)
+-->
 
 </div>
 
@@ -335,7 +330,7 @@ Mar 2026 ─┘  (Jan 1, 2026 → Mar 1, 2026)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
 <a name="guild-hall"></a>
 ## 🛡️ Guild Hall — Contact
@@ -351,13 +346,9 @@ Mar 2026 ─┘  (Jan 1, 2026 → Mar 1, 2026)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D4EDD,100:FF006E&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
 
 <div align="center">
-
-🐍 **Bonus boss:** a live snake that eats your contribution graph every night — see the setup instructions provided alongside this file. It's a second file (`snake.yml`), not decoration.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:2ECC71&height=100&section=footer" alt="footer" width="100%"/>
 
 [⬆ Back to Spawn](#spawn)
 
